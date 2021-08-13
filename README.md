@@ -5,4 +5,6 @@ Live-site: <br>
 3. Animated-Navigation: https://animated-navigation-web.netlify.app <br>
 4. Auto-Text-Effect: https://auto-text-effect-web.netlify.app <br>
 5. Background-Slider: https://background-slider-web.netlify.app <br>
+6. Blurry-Loading: https://blurry-loading-web.netlify.app <br>
+7. 
 
