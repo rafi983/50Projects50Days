@@ -19,4 +19,9 @@ Live-site: <br>
 17. Expanding-Cards: https://expanding-cards-web.netlify.app <br>
 18. FAQ-Collapse: https://faq-collapse-web.netlify.app <br>
 19. FeedBack-UI-Design: https://feedback-uidesign.netlify.app <br>
-20. FormInputWave: https://form-input-wave-web.netlify.app
+20. FormInputWave: https://form-input-wave-web.netlify.app <br>
+21. Github-Profiles: https://github-profiles-web.netlify.app <br>
+22. GoodCheapFast: https://good-cheap-fast-web.netlify.app <br>
+23. HiddenSearch: https://hidden-search-web.netlify.app <br>
+24. HoverBoard: https://hoverboard-web.netlify.app <br>
+25. ImageCarousel: https://image-carousel-web.netlify.app
