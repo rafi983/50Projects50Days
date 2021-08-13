@@ -15,4 +15,8 @@ Live-site: <br>
 13. Drag && Drop: https://draganddrop-web.netlify.app <br>
 14. Drawing-App: https://drawing-app-web.netlify.app <br>
 15. Drink-Water: https://drink-water-web.netlify.app <br>
-16. Event-Keycodes: https://event-keycodes-web.netlify.app
+16. Event-Keycodes: https://event-keycodes-web.netlify.app <br>
+17. Expanding-Cards: https://expanding-cards-web.netlify.app <br>
+18. FAQ-Collapse: https://faq-collapse-web.netlify.app <br>
+19. FeedBack-UI-Design: https://feedback-uidesign.netlify.app <br>
+20. FormInputWave: https://form-input-wave-web.netlify.app
