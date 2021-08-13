@@ -9,5 +9,5 @@ Live-site: <br>
 7. Button-Ripple-Effect: https://button-ripple-effect-web.netlify.app <br>
 8. Content-Placeholder: https://content-placeholder-web.netlify.app <br>
 9. Custom-Range-Slider: https://custom-range-slider-web.netlify.app <br>
-10. 10. Dad-Jokes: https://dad-jokes-rafi.netlify.app
+10.Dad-Jokes: https://dad-jokes-rafi.netlify.app
 
