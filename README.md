@@ -10,5 +10,6 @@ Live-site: <br>
 8. Content-Placeholder: https://content-placeholder-web.netlify.app <br>
 9. Custom-Range-Slider: https://custom-range-slider-web.netlify.app <br>
 10. Dad-Jokes: https://dad-jokes-rafi.netlify.app <br>
-11. Double-Click-Heart: https://double-click-heart-web.netlify.app
+11. Double-Click-Heart: https://double-click-heart-web.netlify.app <br>
+12. Double-Vertical-Slider: https://double-vertical-slider-web.netlify.app
 
