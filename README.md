@@ -41,3 +41,12 @@ Live-site: <br>
 39. Random-Choice-Picker: https://random-choice-picker-web.netlify.app <br>
 40. Random-Image-Generator: https://random-img-generator.netlify.app <br>
 41. Rotating-nav-animation: https://rotating-nav-animation.netlify.app <br>
+42. Scroll-animation: https://scroll-animation-web.netlify.app <br>
+43. Sound-Board: https://soundboard-web.netlify.app <br>
+44. Split-landing-page: https://split-landing-page-web.netlify.app <br>
+45. Sticky-navigation: https://sticky-nav-web.netlify.app <br>
+46. Testimonial-box-switcher: https://testimonial-box-switcher-web.netlify.app <br>
+47. Theme-Clock: https://theme-clock-web.netlify.app <br>
+48. Toast-notification: https://toast-notification-web.netlify.app <br>
+49. Todolist: https://todolist-rafi.netlify.app <br>
+50. Verify-account-UI: https://verify-account-ui-web.netlify.app
