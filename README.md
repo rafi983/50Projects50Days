@@ -29,4 +29,15 @@ Live-site: <br>
 27. InsectCatchGame: https://insect-catch-game-web.netlify.app <br>
 28. KineticLoader: https://kinetic-loader-web.netlify.app <br>
 29. Live-User-Filter: https://liveuser-filter.netlify.app <br>
-30. Mobile-Tab-Navigation: https://mobile-tab-navigation-web.netlify.app
+30. Mobile-Tab-Navigation: https://mobile-tab-navigation-web.netlify.app <br>
+31. Movie App: https://movieapp-web.netlify.app <br>
+32. Netflix-Mobile-Navigation: https://netflix-mobile-nav.netlify.app <br>
+33. Notes-App: https://notesapp-web.netlify.app <br>
+34. Password-Generator: https://password-generator-rafi.netlify.app <br>
+35. Password-Strength: https://pass-strength.netlify.app <br>
+36. Pokedex: https://pokedex-web.netlify.app <br>
+37. ProgressSteps: https://progress-steps-web.netlify.app <br>
+38. QuizApp: https://quiz-rafi.netlify.app <br>
+39. Random-Choice-Picker: https://random-choice-picker-web.netlify.app <br>
+40. Random-Image-Generator: https://random-img-generator.netlify.app <br>
+41. Rotating-nav-animation: https://rotating-nav-animation.netlify.app <br>
